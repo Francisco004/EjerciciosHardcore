@@ -103,6 +103,16 @@ namespace LavaderoForm.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_12 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot_12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Screenshot_2 {
             get {
                 object obj = ResourceManager.GetObject("Screenshot_2", resourceCulture);
@@ -126,6 +136,56 @@ namespace LavaderoForm.Properties {
         internal static System.Drawing.Bitmap Screenshot_22 {
             get {
                 object obj = ResourceManager.GetObject("Screenshot_22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_23 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot_23", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_3 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_4 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_5 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_6 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot_6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

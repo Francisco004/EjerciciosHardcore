@@ -166,6 +166,7 @@ namespace LavaderoForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::LavaderoForm.Properties.Resources.Screenshot_5;
             this.ClientSize = new System.Drawing.Size(254, 350);
             this.Controls.Add(this.CerrarMoto);
             this.Controls.Add(this.AgregarMoto);

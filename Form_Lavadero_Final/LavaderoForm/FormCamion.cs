@@ -8,11 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using BibliotecaParcial;
+using System.Media;
+using System.IO;
 
 namespace LavaderoForm
 {
     public partial class FormCamion : Form
     {
+        private readonly string pathToMusic = Directory.GetCurrentDirectory();
+        private readonly SoundPlayer myPlayer = new SoundPlayer();
+
         private Camion camionDelForm;
 
         public Camion CamionDelForm
@@ -26,6 +31,13 @@ namespace LavaderoForm
         {
             InitializeComponent();
             MarcaCamion.DropDownStyle = ComboBoxStyle.DropDownList;
+            this.Music(myPlayer);
+        }
+
+        private void Music(SoundPlayer myPlayer)
+        {
+            myPlayer.SoundLocation = this.pathToMusic + @"\skype-car.wav";
+            myPlayer.PlayLooping();
         }
 
         private void Marcass_SelectedIndexChanged(object sender, EventArgs e)

@@ -8,11 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using BibliotecaParcial;
+using System.Media;
+using System.IO;
 
 namespace LavaderoForm
 {
     public partial class FormAuto : Form
     {
+        private readonly string pathToMusic = Directory.GetCurrentDirectory();
+        private readonly SoundPlayer myPlayer = new SoundPlayer();
+
         private Auto autitoDelForm;
 
         public Auto AutitoDelForm
@@ -25,6 +30,13 @@ namespace LavaderoForm
         {
             InitializeComponent();
             MarcaAuto.DropDownStyle = ComboBoxStyle.DropDownList;
+            this.Music(myPlayer);
+        }
+
+        private void Music(SoundPlayer myPlayer)
+        {
+            myPlayer.SoundLocation = this.pathToMusic + @"\twitter.wav";
+            myPlayer.PlayLooping();
         }
 
         private void button2_Click(object sender, EventArgs e)
