@@ -33,7 +33,7 @@ namespace LavaderoForm
             {
                 MessageBox.Show("VOCÊ SE FOI WHATSAPPEADO MESMO REI 🤣😂🤣😂👌");
             }
-
+            this.Music(myPlayer);
             this.miLavadero = new Lavadero(400,800,200);
             this.StartPosition = FormStartPosition.CenterScreen;
             VehiculoSeleccionado.DropDownStyle = ComboBoxStyle.DropDownList;
@@ -70,7 +70,7 @@ namespace LavaderoForm
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            this.Music(myPlayer);
+            
 
             if (VehiculoSeleccionado.Text == "Auto")
                 {
@@ -127,7 +127,7 @@ namespace LavaderoForm
 
         private void Button1_Click_1(object sender, EventArgs e)
         {
-
+            this.Music(myPlayer);
             if (OrdenamientoSeleccionado.Text == "Ordenar por marca")
             {
                 miLavadero.Vehiculos.Sort(miLavadero.OrdenarVehiculosPorMarca);
@@ -144,7 +144,8 @@ namespace LavaderoForm
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if(Listado.Text == "Listado de precios totales")
+            this.Music(myPlayer);
+            if (Listado.Text == "Listado de precios totales")
             {
                 this.ListadoPrecios.Items.Clear();
                 this.ListadoPrecios.Items.Add("Total facturado del lavadero: " + miLavadero.MostrarTotalFacturado());
