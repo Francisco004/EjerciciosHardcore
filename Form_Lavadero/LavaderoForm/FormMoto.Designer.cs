@@ -70,7 +70,13 @@ namespace LavaderoForm
             this.MarcaMotos.FormattingEnabled = true;
             this.MarcaMotos.Items.AddRange(new object[] {
             "Honda",
-            "Zanella"});
+            "Zanella",
+            "HarleyDavidson",
+            "Ducati",
+            "Aprilia",
+            "Yamaha",
+            "Kawasaki",
+            "Suzuki"});
             this.MarcaMotos.Location = new System.Drawing.Point(63, 83);
             this.MarcaMotos.Name = "MarcaMotos";
             this.MarcaMotos.Size = new System.Drawing.Size(121, 21);

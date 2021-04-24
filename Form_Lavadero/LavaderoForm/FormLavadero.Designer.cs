@@ -29,6 +29,7 @@ namespace LavaderoForm
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormLavadero));
             this.ListadoVehiculos = new System.Windows.Forms.ListBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -39,36 +40,48 @@ namespace LavaderoForm
             this.VehiculoSeleccionado = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
             this.ConfirmacionOrdena = new System.Windows.Forms.Label();
+            this.Listado = new System.Windows.Forms.ComboBox();
+            this.button2 = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.ListadoPrecios = new System.Windows.Forms.ListBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // ListadoVehiculos
             // 
+            this.ListadoVehiculos.BackColor = System.Drawing.SystemColors.Control;
+            this.ListadoVehiculos.ForeColor = System.Drawing.SystemColors.WindowText;
             this.ListadoVehiculos.FormattingEnabled = true;
-            this.ListadoVehiculos.Location = new System.Drawing.Point(17, 35);
+            this.ListadoVehiculos.Location = new System.Drawing.Point(5, 35);
             this.ListadoVehiculos.Name = "ListadoVehiculos";
-            this.ListadoVehiculos.Size = new System.Drawing.Size(607, 264);
+            this.ListadoVehiculos.Size = new System.Drawing.Size(567, 251);
             this.ListadoVehiculos.TabIndex = 0;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(14, 19);
+            this.label1.BackColor = System.Drawing.SystemColors.Control;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(8, 7);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(52, 13);
+            this.label1.Size = new System.Drawing.Size(88, 24);
             this.label1.TabIndex = 1;
             this.label1.Text = "Lavadero";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(14, 302);
+            this.label2.BackColor = System.Drawing.SystemColors.Control;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(14, 300);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(73, 13);
+            this.label2.Size = new System.Drawing.Size(93, 16);
             this.label2.TabIndex = 2;
             this.label2.Text = "Ordenamiento";
             // 
             // OrdenamientoSeleccionado
             // 
+            this.OrdenamientoSeleccionado.BackColor = System.Drawing.SystemColors.Window;
             this.OrdenamientoSeleccionado.FormattingEnabled = true;
             this.OrdenamientoSeleccionado.Items.AddRange(new object[] {
             "Ordenar por marca",
@@ -80,17 +93,18 @@ namespace LavaderoForm
             // 
             // AgregarVehiculo
             // 
-            this.AgregarVehiculo.Location = new System.Drawing.Point(420, 328);
+            this.AgregarVehiculo.BackColor = System.Drawing.Color.Transparent;
+            this.AgregarVehiculo.Location = new System.Drawing.Point(265, 361);
             this.AgregarVehiculo.Name = "AgregarVehiculo";
             this.AgregarVehiculo.Size = new System.Drawing.Size(99, 39);
             this.AgregarVehiculo.TabIndex = 4;
             this.AgregarVehiculo.Text = "Agregar";
-            this.AgregarVehiculo.UseVisualStyleBackColor = true;
+            this.AgregarVehiculo.UseVisualStyleBackColor = false;
             this.AgregarVehiculo.Click += new System.EventHandler(this.Button1_Click);
             // 
             // EliminarVehiculo
             // 
-            this.EliminarVehiculo.Location = new System.Drawing.Point(525, 328);
+            this.EliminarVehiculo.Location = new System.Drawing.Point(265, 424);
             this.EliminarVehiculo.Name = "EliminarVehiculo";
             this.EliminarVehiculo.Size = new System.Drawing.Size(99, 39);
             this.EliminarVehiculo.TabIndex = 5;
@@ -101,9 +115,10 @@ namespace LavaderoForm
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(284, 308);
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(260, 298);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(89, 13);
+            this.label4.Size = new System.Drawing.Size(111, 16);
             this.label4.TabIndex = 8;
             this.label4.Text = "Tipo de vehiculo ";
             // 
@@ -114,7 +129,7 @@ namespace LavaderoForm
             "Auto",
             "Moto",
             "Camion"});
-            this.VehiculoSeleccionado.Location = new System.Drawing.Point(269, 324);
+            this.VehiculoSeleccionado.Location = new System.Drawing.Point(255, 318);
             this.VehiculoSeleccionado.Name = "VehiculoSeleccionado";
             this.VehiculoSeleccionado.Size = new System.Drawing.Size(121, 21);
             this.VehiculoSeleccionado.TabIndex = 9;
@@ -122,7 +137,7 @@ namespace LavaderoForm
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(65, 348);
+            this.button1.Location = new System.Drawing.Point(62, 348);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(111, 30);
             this.button1.TabIndex = 10;
@@ -138,11 +153,67 @@ namespace LavaderoForm
             this.ConfirmacionOrdena.Size = new System.Drawing.Size(0, 13);
             this.ConfirmacionOrdena.TabIndex = 11;
             // 
+            // Listado
+            // 
+            this.Listado.BackColor = System.Drawing.SystemColors.Window;
+            this.Listado.FormattingEnabled = true;
+            this.Listado.Items.AddRange(new object[] {
+            "Listado de precios totales",
+            "Listado de precios por vehiculo"});
+            this.Listado.Location = new System.Drawing.Point(18, 404);
+            this.Listado.Name = "Listado";
+            this.Listado.Size = new System.Drawing.Size(210, 21);
+            this.Listado.TabIndex = 12;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(62, 433);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(111, 30);
+            this.button2.TabIndex = 13;
+            this.button2.Text = "Listar Precios";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(15, 386);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(52, 16);
+            this.label3.TabIndex = 14;
+            this.label3.Text = "Listado";
+            // 
+            // ListadoPrecios
+            // 
+            this.ListadoPrecios.BackColor = System.Drawing.SystemColors.Control;
+            this.ListadoPrecios.FormattingEnabled = true;
+            this.ListadoPrecios.Location = new System.Drawing.Point(384, 384);
+            this.ListadoPrecios.Name = "ListadoPrecios";
+            this.ListadoPrecios.Size = new System.Drawing.Size(180, 43);
+            this.ListadoPrecios.TabIndex = 15;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(429, 361);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(78, 16);
+            this.label5.TabIndex = 16;
+            this.label5.Text = "Facturacion";
+            // 
             // FormLavadero
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(647, 387);
+            this.ClientSize = new System.Drawing.Size(577, 471);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.ListadoPrecios);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.Listado);
             this.Controls.Add(this.ConfirmacionOrdena);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.VehiculoSeleccionado);
@@ -153,6 +224,7 @@ namespace LavaderoForm
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.ListadoVehiculos);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormLavadero";
             this.Text = "Lavadero Francisco Rocha";
             this.ResumeLayout(false);
@@ -172,6 +244,11 @@ namespace LavaderoForm
         private System.Windows.Forms.ComboBox VehiculoSeleccionado;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label ConfirmacionOrdena;
+        private System.Windows.Forms.ComboBox Listado;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.ListBox ListadoPrecios;
+        private System.Windows.Forms.Label label5;
     }
 }
 

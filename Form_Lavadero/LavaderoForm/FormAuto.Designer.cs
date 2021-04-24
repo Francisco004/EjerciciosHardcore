@@ -100,7 +100,15 @@ namespace LavaderoForm
             this.MarcaAuto.FormattingEnabled = true;
             this.MarcaAuto.Items.AddRange(new object[] {
             "Ford",
-            "Fiat"});
+            "Fiat",
+            "BMW",
+            "MercedesBenz",
+            "Audi",
+            "Lexus",
+            "Renault",
+            "Opel",
+            "Seat",
+            "Susuki"});
             this.MarcaAuto.Location = new System.Drawing.Point(63, 83);
             this.MarcaAuto.Name = "MarcaAuto";
             this.MarcaAuto.Size = new System.Drawing.Size(121, 21);

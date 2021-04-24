@@ -70,7 +70,15 @@ namespace LavaderoForm
             this.MarcaCamion.FormattingEnabled = true;
             this.MarcaCamion.Items.AddRange(new object[] {
             "Scania",
-            "Iveco"});
+            "Iveco",
+            "RenaultTrucks",
+            "Volvo",
+            "Man",
+            "Daf",
+            "Mitsubishi",
+            "Nissan",
+            "Isuzu",
+            "Mercedesbenz"});
             this.MarcaCamion.Location = new System.Drawing.Point(63, 83);
             this.MarcaCamion.Name = "MarcaCamion";
             this.MarcaCamion.Size = new System.Drawing.Size(121, 21);

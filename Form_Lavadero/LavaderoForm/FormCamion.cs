@@ -30,13 +30,41 @@ namespace LavaderoForm
 
         private void Marcass_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (MarcaCamion.Text == "Scania")
+            switch (this.MarcaCamion.SelectedIndex)
             {
-                variable = EMarcas.Scania;
-            }
-            else
-            {
-                variable = EMarcas.Iveco;
+                case 0:
+                    variable = EMarcas.Scania;
+                    break;
+                case 1:
+                    variable = EMarcas.Iveco;
+                    break;
+                case 2:
+                    variable = EMarcas.RenaultTrucks;
+                    break;
+                case 3:
+                    variable = EMarcas.Volvo;
+                    break;
+                case 4:
+                    variable = EMarcas.Man;
+                    break;
+                case 5:
+                    variable = EMarcas.Daf;
+                    break;
+                case 6:
+                    variable = EMarcas.Mitsubishi;
+                    break;
+                case 7:
+                    variable = EMarcas.Nissan;
+                    break;
+                case 8:
+                    variable = EMarcas.Isuzu;
+                    break;
+                case 9:
+                    variable = EMarcas.MercedesBenz;
+                    break;
+
+                default:
+                    break;
             }
         }
 
@@ -93,7 +121,7 @@ namespace LavaderoForm
                 {
                     e.Cancel = true;
                     RuedasCamion.Focus();
-                    errorProvider1.SetError(RuedasCamion, "Porfavor ingrese ruedas de 1 a 12 ");
+                    errorProvider1.SetError(RuedasCamion, "Ingrese ruedas de 1 a 12 ");
                 }
                 else
                 {
@@ -118,7 +146,7 @@ namespace LavaderoForm
                 {
                     e.Cancel = true;
                     PatenteCamion.Focus();
-                    errorProvider1.SetError(PatenteCamion, "Porfavor ingrese una patente de 6 digitos ");
+                    errorProvider1.SetError(PatenteCamion, "Ingrese una patente de 6 caracteres ");
                 }
                 else
                 {

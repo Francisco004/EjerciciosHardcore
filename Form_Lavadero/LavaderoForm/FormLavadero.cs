@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using BibliotecaParcial;
+using System.Media;
+using System.IO;
 
 namespace LavaderoForm
 {
@@ -23,9 +25,11 @@ namespace LavaderoForm
         public FormLavadero()
         {
             InitializeComponent();
+
             this.miLavadero = new Lavadero(400,800,200);
             this.StartPosition = FormStartPosition.CenterScreen;
             VehiculoSeleccionado.DropDownStyle = ComboBoxStyle.DropDownList;
+            Listado.DropDownStyle = ComboBoxStyle.DropDownList;
             OrdenamientoSeleccionado.DropDownStyle = ComboBoxStyle.DropDownList;
         }
 
@@ -52,7 +56,8 @@ namespace LavaderoForm
 
         private void Button1_Click(object sender, EventArgs e)
         {
-                if(VehiculoSeleccionado.Text == "Auto")
+
+            if (VehiculoSeleccionado.Text == "Auto")
                 {
                 FormAuto frmAuto = new FormAuto
                 {
@@ -120,6 +125,22 @@ namespace LavaderoForm
             }
 
             this.MostrarEnVisor();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if(Listado.Text == "Listado de precios totales")
+            {
+                this.ListadoPrecios.Items.Clear();
+                this.ListadoPrecios.Items.Add("Total facturado del lavadero: " + miLavadero.MostrarTotalFacturado());
+            }
+            else if (Listado.Text == "Listado de precios por vehiculo")
+            {
+                this.ListadoPrecios.Items.Clear();
+                this.ListadoPrecios.Items.Add("Total facturado de autos: " + miLavadero.MostrarTotalFacturado(EVehiculos.Auto));
+                this.ListadoPrecios.Items.Add("Total facturado de motos: " + miLavadero.MostrarTotalFacturado(EVehiculos.Moto));
+                this.ListadoPrecios.Items.Add("Total facturado de camiones: " + miLavadero.MostrarTotalFacturado(EVehiculos.Camion));
+            }
         }
     }
 }

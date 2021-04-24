@@ -30,13 +30,35 @@ namespace LavaderoForm
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (MarcaMotos.Text == "Honda")
+            switch (this.MarcaMotos.SelectedIndex)
             {
-                variable = EMarcas.Honda;
-            }
-            else
-            {
-                variable = EMarcas.Zanella;
+                case 0:
+                    variable = EMarcas.Honda;
+                    break;
+                case 1:
+                    variable = EMarcas.Zanella;
+                    break;
+                case 2:
+                    variable = EMarcas.HarleyDavidson;
+                    break;
+                case 3:
+                    variable = EMarcas.Ducati;
+                    break;
+                case 4:
+                    variable = EMarcas.Aprilia;
+                    break;
+                case 5:
+                    variable = EMarcas.Yamaha;
+                    break;
+                case 6:
+                    variable = EMarcas.Kawasaki;
+                    break;
+                case 7:
+                    variable = EMarcas.Suzuki;
+                    break;
+
+                default:
+                    break;
             }
         }
 
@@ -93,7 +115,7 @@ namespace LavaderoForm
                 {
                     e.Cancel = true;
                     RuedasMoto.Focus();
-                    errorProvider1.SetError(RuedasMoto, "Porfavor ingrese ruedas de 1 a 2 ");
+                    errorProvider1.SetError(RuedasMoto, "Ingrese de 1 a 2 ruedas");
                 }
                 else
                 {
@@ -118,7 +140,7 @@ namespace LavaderoForm
                 {
                     e.Cancel = true;
                     PatenteMoto.Focus();
-                    errorProvider1.SetError(PatenteMoto, "Porfavor ingrese una patente de 6 digitos ");
+                    errorProvider1.SetError(PatenteMoto, "Ingrese una patente de 6 caracteres ");
                 }
                 else
                 {

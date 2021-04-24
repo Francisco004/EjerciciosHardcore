@@ -44,14 +44,42 @@ namespace LavaderoForm
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-                if (PatenteAutos.Text == "Ford")
-                {
-                variable = EMarcas.Ford;
-                }
-                else
-                {
-                variable = EMarcas.Fiat;
-                }
+            switch (this.MarcaAuto.SelectedIndex)
+            {
+                case 0:
+                    variable = EMarcas.Ford;
+                    break;
+                case 1:
+                    variable = EMarcas.Fiat;
+                    break;
+                case 2:
+                    variable = EMarcas.BMW;
+                    break;
+                case 3:
+                    variable = EMarcas.MercedesBenz;
+                    break;
+                case 4:
+                    variable = EMarcas.Audi;
+                    break;
+                case 5:
+                    variable = EMarcas.Lexus;
+                    break;
+                case 6:
+                    variable = EMarcas.Renault;
+                    break;
+                case 7:
+                    variable = EMarcas.Opel;
+                    break;
+                case 8:
+                    variable = EMarcas.Seat;
+                    break;
+                case 9:
+                    variable = EMarcas.Suzuki;
+                    break;
+
+                default:
+                    break;
+            }
         }
 
         private void AsientoAuto_Validating(object sender, CancelEventArgs e)
@@ -60,7 +88,7 @@ namespace LavaderoForm
             {
                     e.Cancel = true;
                     AsientoAuto.Focus();
-                    errorProvider1.SetError(AsientoAuto, "Porfavor ingrese los asientos sin ',' ni '.' ");
+                    errorProvider1.SetError(AsientoAuto, "Porfavor ingrese los asientos sin letras, comas o puntos ");
             }
             else
             {
@@ -69,7 +97,7 @@ namespace LavaderoForm
                 {
                     e.Cancel = true;
                     AsientoAuto.Focus();
-                    errorProvider1.SetError(AsientoAuto, "Ingrese asientos de 1 a 6 ");
+                    errorProvider1.SetError(AsientoAuto, "Ingrese de 1 a 6 asientos");
                 } else
                 {
                     e.Cancel = false;
@@ -93,7 +121,7 @@ namespace LavaderoForm
                 {
                     e.Cancel = true;
                     RuedasAutos.Focus();
-                    errorProvider1.SetError(RuedasAutos, "Porfavor ingrese ruedas de 1 a 6 ");
+                    errorProvider1.SetError(RuedasAutos, "Ingrese de 1 a 6 ruedas");
                 }
                 else
                 {
@@ -118,7 +146,7 @@ namespace LavaderoForm
                 {
                     e.Cancel = true;
                     PatenteAutos.Focus();
-                    errorProvider1.SetError(PatenteAutos, "Porfavor ingrese una patente de 6 digitos ");
+                    errorProvider1.SetError(PatenteAutos, "Ingrese una patente de 6 caracteres ");
                 }
                 else
                 {
