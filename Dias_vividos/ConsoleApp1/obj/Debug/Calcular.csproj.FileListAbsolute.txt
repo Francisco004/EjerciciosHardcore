@@ -1,0 +1,7 @@
+C:\Users\fran_\Desktop\Dias vividos\ConsoleApp1\obj\Debug\Calcular.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\Dias vividos\ConsoleApp1\obj\Debug\Calcular.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\Dias vividos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\fran_\Desktop\Dias vividos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\fran_\Desktop\Dias vividos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\fran_\Desktop\Dias vividos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\fran_\Desktop\Dias vividos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb

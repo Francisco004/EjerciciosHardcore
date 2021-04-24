@@ -1,0 +1,10 @@
+C:\Users\fran_\source\repos\Entidades\PinturaSlack\bin\Debug\PinturaSlack.exe.config
+C:\Users\fran_\source\repos\Entidades\PinturaSlack\bin\Debug\PinturaSlack.exe
+C:\Users\fran_\source\repos\Entidades\PinturaSlack\bin\Debug\PinturaSlack.pdb
+C:\Users\fran_\source\repos\Entidades\PinturaSlack\bin\Debug\Entidades.dll
+C:\Users\fran_\source\repos\Entidades\PinturaSlack\bin\Debug\Entidades.pdb
+C:\Users\fran_\source\repos\Entidades\PinturaSlack\obj\Debug\PinturaSlack.csprojAssemblyReference.cache
+C:\Users\fran_\source\repos\Entidades\PinturaSlack\obj\Debug\PinturaSlack.csproj.CoreCompileInputs.cache
+C:\Users\fran_\source\repos\Entidades\PinturaSlack\obj\Debug\PinturaSlack.csproj.CopyComplete
+C:\Users\fran_\source\repos\Entidades\PinturaSlack\obj\Debug\PinturaSlack.exe
+C:\Users\fran_\source\repos\Entidades\PinturaSlack\obj\Debug\PinturaSlack.pdb
