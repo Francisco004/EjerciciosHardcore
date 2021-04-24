@@ -1,0 +1,12 @@
+C:\Users\fran_\Desktop\ParcialLavadero\Vehiculo\bin\Debug\Vehiculo.dll
+C:\Users\fran_\Desktop\ParcialLavadero\Vehiculo\bin\Debug\Vehiculo.pdb
+C:\Users\fran_\Desktop\ParcialLavadero\Vehiculo\obj\Debug\BibliotecaParcial.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\ParcialLavadero\Vehiculo\obj\Debug\Vehiculo.dll
+C:\Users\fran_\Desktop\ParcialLavadero\Vehiculo\obj\Debug\Vehiculo.pdb
+C:\Users\fran_\Desktop\ParcialLavadero\Vehiculo\obj\Debug\BibliotecaParcial.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\Lavadero\Vehiculo\bin\Debug\Vehiculo.dll
+C:\Users\fran_\Desktop\Lavadero\Vehiculo\bin\Debug\Vehiculo.pdb
+C:\Users\fran_\Desktop\Lavadero\Vehiculo\obj\Debug\BibliotecaParcial.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\Lavadero\Vehiculo\obj\Debug\BibliotecaParcial.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\Lavadero\Vehiculo\obj\Debug\Vehiculo.dll
+C:\Users\fran_\Desktop\Lavadero\Vehiculo\obj\Debug\Vehiculo.pdb
