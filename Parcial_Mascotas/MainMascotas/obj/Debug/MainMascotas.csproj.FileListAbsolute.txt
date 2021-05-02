@@ -1,0 +1,10 @@
+C:\Users\fran_\Desktop\ParcialMascotas\MainMascotas\bin\Debug\MainMascotas.exe.config
+C:\Users\fran_\Desktop\ParcialMascotas\MainMascotas\bin\Debug\MainMascotas.exe
+C:\Users\fran_\Desktop\ParcialMascotas\MainMascotas\bin\Debug\MainMascotas.pdb
+C:\Users\fran_\Desktop\ParcialMascotas\MainMascotas\bin\Debug\Mascotas.dll
+C:\Users\fran_\Desktop\ParcialMascotas\MainMascotas\bin\Debug\Mascotas.pdb
+C:\Users\fran_\Desktop\ParcialMascotas\MainMascotas\obj\Debug\MainMascotas.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\ParcialMascotas\MainMascotas\obj\Debug\MainMascotas.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\ParcialMascotas\MainMascotas\obj\Debug\MainMascotas.csproj.CopyComplete
+C:\Users\fran_\Desktop\ParcialMascotas\MainMascotas\obj\Debug\MainMascotas.exe
+C:\Users\fran_\Desktop\ParcialMascotas\MainMascotas\obj\Debug\MainMascotas.pdb

@@ -1,0 +1,6 @@
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\CursoAlumnosParcial\obj\Debug\CursoAlumnosParcial.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\CursoAlumnosParcial\obj\Debug\CursoAlumnosParcial.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\CursoAlumnosParcial\bin\Debug\CursoAlumnosParcial.dll
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\CursoAlumnosParcial\bin\Debug\CursoAlumnosParcial.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\CursoAlumnosParcial\obj\Debug\CursoAlumnosParcial.dll
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\CursoAlumnosParcial\obj\Debug\CursoAlumnosParcial.pdb

@@ -1,0 +1,15 @@
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\bin\Debug\HerenciaWindowsForm.exe.config
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\bin\Debug\HerenciaWindowsForm.exe
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\bin\Debug\HerenciaWindowsForm.pdb
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\bin\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\bin\Debug\Entidades.pdb
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\obj\Debug\TestWindowsForm.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\obj\Debug\HerenciaWindowsForm.FrmEmpleado.resources
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\obj\Debug\HerenciaWindowsForm.FrmEmpresa.resources
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\obj\Debug\HerenciaWindowsForm.FrmPrincipal.resources
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\obj\Debug\HerenciaWindowsForm.Properties.Resources.resources
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\obj\Debug\TestWindowsForm.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\obj\Debug\TestWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\obj\Debug\TestWindowsForm.csproj.CopyComplete
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\obj\Debug\HerenciaWindowsForm.exe
+C:\Users\Maxi\source\repos\Herencia.2020\TestWindowsForm\obj\Debug\HerenciaWindowsForm.pdb

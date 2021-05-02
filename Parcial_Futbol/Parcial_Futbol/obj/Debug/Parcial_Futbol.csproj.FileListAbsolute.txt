@@ -1,0 +1,6 @@
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Futbol\Parcial_Futbol\obj\Debug\Parcial_Futbol.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Futbol\Parcial_Futbol\obj\Debug\Parcial_Futbol.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Futbol\Parcial_Futbol\bin\Debug\Parcial_Futbol.dll
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Futbol\Parcial_Futbol\bin\Debug\Parcial_Futbol.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Futbol\Parcial_Futbol\obj\Debug\Parcial_Futbol.dll
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Futbol\Parcial_Futbol\obj\Debug\Parcial_Futbol.pdb

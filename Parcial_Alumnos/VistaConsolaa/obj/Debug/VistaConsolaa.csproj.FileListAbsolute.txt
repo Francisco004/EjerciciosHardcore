@@ -1,0 +1,10 @@
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\VistaConsolaa\bin\Debug\VistaConsolaa.exe.config
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\VistaConsolaa\bin\Debug\VistaConsolaa.exe
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\VistaConsolaa\bin\Debug\VistaConsolaa.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\VistaConsolaa\bin\Debug\CursoAlumnosParcial.dll
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\VistaConsolaa\bin\Debug\CursoAlumnosParcial.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\VistaConsolaa\obj\Debug\VistaConsolaa.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\VistaConsolaa\obj\Debug\VistaConsolaa.csproj.CopyComplete
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\VistaConsolaa\obj\Debug\VistaConsolaa.exe
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\VistaConsolaa\obj\Debug\VistaConsolaa.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\CursoAlumnosParcial\VistaConsolaa\obj\Debug\VistaConsolaa.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\fran_\Desktop\ParcialMascotas\Mascotas\bin\Debug\Mascotas.dll
+C:\Users\fran_\Desktop\ParcialMascotas\Mascotas\bin\Debug\Mascotas.pdb
+C:\Users\fran_\Desktop\ParcialMascotas\Mascotas\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\ParcialMascotas\Mascotas\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\ParcialMascotas\Mascotas\obj\Debug\Mascotas.dll
+C:\Users\fran_\Desktop\ParcialMascotas\Mascotas\obj\Debug\Mascotas.pdb

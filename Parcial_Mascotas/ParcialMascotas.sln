@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Mascotas\Entidades.csproj", "{488F2C50-05F1-49A5-AC21-C40A5BE5A596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMascotas", "MainMascotas\MainMascotas.csproj", "{0A40EDE0-BEC0-43FF-B96A-E1A28EE6DF0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488F2C50-05F1-49A5-AC21-C40A5BE5A596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488F2C50-05F1-49A5-AC21-C40A5BE5A596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488F2C50-05F1-49A5-AC21-C40A5BE5A596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488F2C50-05F1-49A5-AC21-C40A5BE5A596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A40EDE0-BEC0-43FF-B96A-E1A28EE6DF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A40EDE0-BEC0-43FF-B96A-E1A28EE6DF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A40EDE0-BEC0-43FF-B96A-E1A28EE6DF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A40EDE0-BEC0-43FF-B96A-E1A28EE6DF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEE520C4-EBCB-460E-985C-DF0C0704CE65}
+	EndGlobalSection
+EndGlobal
