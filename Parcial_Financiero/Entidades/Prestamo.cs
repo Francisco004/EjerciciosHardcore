@@ -34,7 +34,7 @@ namespace PrestamosPersonales
         public Prestamo(float monto, DateTime vencimiento)
         {
             this.monto = monto;
-            this.vencimiento = vencimiento;
+            this.Vencimiento = vencimiento;
         }
 
         public abstract void ExtenderPlazo(DateTime nuevoVencimiento);
@@ -42,15 +42,30 @@ namespace PrestamosPersonales
         public virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("Monto: " + this.monto);
-            sb.AppendLine("Vencimiento: " + this.vencimiento);
+            sb.AppendLine("\nMonto: " + this.monto);
+            sb.Append("Vencimiento: " + this.vencimiento);
 
             return sb.ToString();
         }
 
         public int OrdenarPorFecha(Prestamo p1, Prestamo p2)
         {
-            return string.Compare(p1.vencimiento.ToString(), p2.vencimiento.ToString());
+            int retorno;
+
+            if(p1.Vencimiento > p2.Vencimiento)
+            {
+                retorno = 1;
+            }
+            else if (p1.Vencimiento < p2.Vencimiento)
+            {
+                retorno = -1;
+            }
+            else
+            {
+                retorno = 0;
+            }
+
+            return retorno;
         }
     }
 }

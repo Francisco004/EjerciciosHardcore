@@ -52,9 +52,9 @@ namespace PrestamosPersonales
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(base.Mostrar());
-            sb.AppendLine("Periodicidad: ");
+            sb.Append("Periodicidad: ");
             sb.AppendLine(this.periodicidad.ToString());
-            sb.AppendLine(" Interes: ");
+            sb.Append("Interes: ");
             sb.AppendFormat(Interes.ToString());
 
             return sb.ToString();
@@ -64,7 +64,7 @@ namespace PrestamosPersonales
             TimeSpan diferencia;
             diferencia = nuevoVencimiento - this.Vencimiento;
 
-            this.monto = (float)(2.5 * (float)Convert.ToInt32(diferencia));
+            this.monto = this.monto + (float)(2.5 * (float)Convert.ToInt32(diferencia.Days));
 
             this.Vencimiento = nuevoVencimiento;
         }

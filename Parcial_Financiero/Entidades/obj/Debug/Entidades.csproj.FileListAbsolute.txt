@@ -4,3 +4,9 @@ C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiera\ParcialFinanciero\Entidade
 C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiera\ParcialFinanciero\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiera\ParcialFinanciero\Entidades\obj\Debug\Entidades.dll
 C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiera\ParcialFinanciero\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Entidades\bin\Debug\Entidades.dll
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Entidades\obj\Debug\Entidades.dll
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Entidades\obj\Debug\Entidades.pdb

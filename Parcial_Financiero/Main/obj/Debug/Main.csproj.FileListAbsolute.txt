@@ -1,0 +1,10 @@
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Main\bin\Debug\Main.exe.config
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Main\bin\Debug\Main.exe
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Main\bin\Debug\Main.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Main\bin\Debug\Entidades.dll
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Main\bin\Debug\Entidades.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Main\obj\Debug\Main.exe
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Financiero\Main\obj\Debug\Main.pdb

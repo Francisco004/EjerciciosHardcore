@@ -34,9 +34,9 @@ namespace PrestamosPersonales
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(base.Mostrar());
-            sb.AppendLine("Porcenaje de interes: ");
+            sb.Append("Porcenaje de interes: ");
             sb.AppendLine(this.porcentajeInteres.ToString());
-            sb.AppendLine(" Interes: ");
+            sb.Append("Interes: ");
             sb.AppendFormat(Interes.ToString());
 
             return sb.ToString();
@@ -47,7 +47,7 @@ namespace PrestamosPersonales
             TimeSpan diferencia;
             diferencia = nuevoVencimiento - this.Vencimiento;
 
-            this.porcentajeInteres = (float)(0.25 * (float)Convert.ToInt32(diferencia));
+            this.porcentajeInteres = this.porcentajeInteres + (float)(0.25 * (float)Convert.ToInt32(diferencia.Days));
 
             this.Vencimiento = nuevoVencimiento;
         }
