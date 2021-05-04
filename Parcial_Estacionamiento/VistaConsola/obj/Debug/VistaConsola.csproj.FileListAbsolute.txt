@@ -1,0 +1,20 @@
+C:\Users\fran_\source\repos\Parcial Estacionamiento\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\fran_\source\repos\Parcial Estacionamiento\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\fran_\source\repos\Parcial Estacionamiento\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\fran_\source\repos\Parcial Estacionamiento\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\fran_\source\repos\Parcial Estacionamiento\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\fran_\source\repos\Parcial Estacionamiento\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\fran_\source\repos\Parcial Estacionamiento\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\fran_\source\repos\Parcial Estacionamiento\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\fran_\source\repos\Parcial Estacionamiento\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\fran_\source\repos\Parcial Estacionamiento\VistaConsola\obj\Debug\VistaConsola.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Estacionamiento\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Estacionamiento\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Estacionamiento\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Estacionamiento\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Estacionamiento\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Estacionamiento\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Estacionamiento\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Estacionamiento\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Estacionamiento\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\fran_\Desktop\UTN\Parcial\Parcial_Estacionamiento\VistaConsola\obj\Debug\VistaConsola.pdb
