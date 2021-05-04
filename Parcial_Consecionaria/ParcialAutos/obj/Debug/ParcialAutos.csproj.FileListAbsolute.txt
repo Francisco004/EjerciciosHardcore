@@ -1,0 +1,20 @@
+C:\Users\Usuario\Desktop\KPlucci\Parcial autos\ParcialAutos\ParcialAutos\bin\Debug\ParcialAutos.exe.config
+C:\Users\Usuario\Desktop\KPlucci\Parcial autos\ParcialAutos\ParcialAutos\bin\Debug\ParcialAutos.exe
+C:\Users\Usuario\Desktop\KPlucci\Parcial autos\ParcialAutos\ParcialAutos\bin\Debug\ParcialAutos.pdb
+C:\Users\Usuario\Desktop\KPlucci\Parcial autos\ParcialAutos\ParcialAutos\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KPlucci\Parcial autos\ParcialAutos\ParcialAutos\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KPlucci\Parcial autos\ParcialAutos\ParcialAutos\obj\Debug\ParcialAutos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\KPlucci\Parcial autos\ParcialAutos\ParcialAutos\obj\Debug\ParcialAutos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KPlucci\Parcial autos\ParcialAutos\ParcialAutos\obj\Debug\ParcialAutos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\KPlucci\Parcial autos\ParcialAutos\ParcialAutos\obj\Debug\ParcialAutos.exe
+C:\Users\Usuario\Desktop\KPlucci\Parcial autos\ParcialAutos\ParcialAutos\obj\Debug\ParcialAutos.pdb
+C:\Users\fran_\Desktop\ParcialAutos\ParcialAutos\bin\Debug\ParcialAutos.exe.config
+C:\Users\fran_\Desktop\ParcialAutos\ParcialAutos\bin\Debug\ParcialAutos.exe
+C:\Users\fran_\Desktop\ParcialAutos\ParcialAutos\bin\Debug\ParcialAutos.pdb
+C:\Users\fran_\Desktop\ParcialAutos\ParcialAutos\bin\Debug\Entidades.dll
+C:\Users\fran_\Desktop\ParcialAutos\ParcialAutos\bin\Debug\Entidades.pdb
+C:\Users\fran_\Desktop\ParcialAutos\ParcialAutos\obj\Debug\ParcialAutos.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\ParcialAutos\ParcialAutos\obj\Debug\ParcialAutos.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\ParcialAutos\ParcialAutos\obj\Debug\ParcialAutos.csproj.CopyComplete
+C:\Users\fran_\Desktop\ParcialAutos\ParcialAutos\obj\Debug\ParcialAutos.exe
+C:\Users\fran_\Desktop\ParcialAutos\ParcialAutos\obj\Debug\ParcialAutos.pdb
