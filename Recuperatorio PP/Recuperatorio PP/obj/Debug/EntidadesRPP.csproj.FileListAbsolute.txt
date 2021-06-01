@@ -1,0 +1,12 @@
+C:\Users\fran_\Desktop\Recuperatorio PP\Recuperatorio PP\bin\Debug\EntidadesRPP.dll
+C:\Users\fran_\Desktop\Recuperatorio PP\Recuperatorio PP\bin\Debug\EntidadesRPP.pdb
+C:\Users\fran_\Desktop\Recuperatorio PP\Recuperatorio PP\obj\Debug\EntidadesRPP.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\Recuperatorio PP\Recuperatorio PP\obj\Debug\EntidadesRPP.dll
+C:\Users\fran_\Desktop\Recuperatorio PP\Recuperatorio PP\obj\Debug\EntidadesRPP.pdb
+C:\Users\fran_\Desktop\Recuperatorio PP\Recuperatorio PP\obj\Debug\EntidadesRPP.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\UTN\Turbo hardcore\Recuperatorio PP\Recuperatorio PP\bin\Debug\EntidadesRPP.dll
+C:\Users\fran_\Desktop\UTN\Turbo hardcore\Recuperatorio PP\Recuperatorio PP\bin\Debug\EntidadesRPP.pdb
+C:\Users\fran_\Desktop\UTN\Turbo hardcore\Recuperatorio PP\Recuperatorio PP\obj\Debug\EntidadesRPP.csprojAssemblyReference.cache
+C:\Users\fran_\Desktop\UTN\Turbo hardcore\Recuperatorio PP\Recuperatorio PP\obj\Debug\EntidadesRPP.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Desktop\UTN\Turbo hardcore\Recuperatorio PP\Recuperatorio PP\obj\Debug\EntidadesRPP.dll
+C:\Users\fran_\Desktop\UTN\Turbo hardcore\Recuperatorio PP\Recuperatorio PP\obj\Debug\EntidadesRPP.pdb
